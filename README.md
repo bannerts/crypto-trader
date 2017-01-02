@@ -1,5 +1,5 @@
 # crypto-trader
-Files related to the development of a crypt currency trading bot
+Files related to the development of a crypto-currency library for automating trades on various exchanges.
 
 # Install python 3.4 (or later)
     - comes with pip
